@@ -1,102 +1,110 @@
 [
     {
-       "rank":1,
-       "title":"Da Vinci Code,The",
-       "author":"Brown, Dan",
-       "sales":5094805,
-       "publisher":"Transworld",
-       "genre":"Crime, Thriller & Adventure",
-       "img":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332591483l/269831.jpg",
-       "price":120
+       "id":1,
+       "name":"Shahatoli high school",
+       "location":"Shahatoli, Chandpur",
+       "students":421,
+       "teachers":17,
+       "established":"1953",
+       "img":"https://lh3.googleusercontent.com/proxy/Cx61DPiOMOk1D0p3mNIZBqHl9i7rkp9hpBS-O0rmFK3oaaFaV4uZedI0dKEXzJAF-ReX4-5exn4XCv_aC97KKcRk0x4TGbvzvByvwMk"
     },
     {
-       "rank":2,
-       "title":"Harry Potter and the Deathly Hallows",
-       "author":"Rowling, J.K.",
-       "sales":4475152,
-       "publisher":"Bloomsbury",
-       "genre":"Children's Fiction",
-       "img":"https://images-na.ssl-images-amazon.com/images/I/71sH3vxziLL.jpg",
-       "price":100
+       "id":2,
+       "name":"Coto-Shundor A. Ali high school",
+       "location":"Coto-Shundor, Chandpur",
+       "students":331,
+       "teachers":15,
+       "established":"1988",
+       "img":"http://www.barisalboard.org/webroot/interactive_banner/101991-25227.JPG"
     },
     {
-       "rank":3,
-       "title":"Harry Potter and the Philosopher's Stone",
-       "author":"Rowling, J.K.",
-       "sales":4200654,
-       "publisher":"Bloomsbury",
-       "genre":"Children's Fiction",
-       "img":"https://static-01.daraz.com.bd/p/88c8fe011aa2683f66e43efe9922dafc.jpg",
-       "price":100
+       "id":3,
+       "name":"Zilani chisty high school",
+       "location":"Shahatoli, Chandpur",
+       "students":361,
+       "teachers":16,
+       "established":"1933",
+       "img":"https://directory.edugorilla.com/wp-content/uploads/sites/6/2018/06/a94f169d8ce95bf806c070d1261d7f86-1024x381.jpeg"
     },
     {
-       "rank":4,
-       "title":"Harry Potter and the Order of the Phoenix",
-       "author":"Rowling, J.K.",
-       "sales":4179479,
-       "publisher":"Bloomsbury",
-       "genre":"Children's Fiction",
-       "img":"https://m.media-amazon.com/images/M/MV5BMTM0NTczMTUzOV5BMl5BanBnXkFtZTYwMzIxNTg3._V1_FMjpg_UX1000_.jpg",
-       "price":110
+       "id":4,
+       "name":"Girls school",
+       "location":"Shahatoli, Chandpur",
+       "students":211,
+       "teachers":14,
+       "established":"1999",
+       "img":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332591483l/269831.jpg"
     },
     {
-       "rank":5,
-       "title":"Fifty Shades of Grey",
-       "author":"James, E. L.",
-       "sales":3758936,
-       "publisher":"Random House",
-       "genre":"Romance & Sagas",
-       "img":"https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/50ShadesofGreyCoverArt.jpg/220px-50ShadesofGreyCoverArt.jpg",
-       "price":99
+       "id":5,
+       "name":"Rampur high school",
+       "location":"Rampur-bazar, Chandpur",
+       "students":411,
+       "teachers":21,
+       "established":"1945",
+       "img":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332591483l/269831.jpg"
     },
     {
-       "rank":6,
-       "title":"Harry Potter and the Goblet of Fire",
-       "author":"Rowling, J.K.",
-       "sales":3583215,
-       "publisher":"Bloomsbury",
-       "genre":"Children's Fiction",
-       "img":"https://www.themoviedb.org/t/p/w500/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
-       "price":67
+       "id":6,
+       "name":"Mohamaya high school",
+       "location":"Mohamaya, Chandpur",
+       "students":367,
+       "teachers":20,
+       "established":"1955",
+       "img":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332591483l/269831.jpg"
     },
     {
-       "rank":7,
-       "title":"Harry Potter and the Chamber of Secrets",
-       "author":"Rowling, J.K.",
-       "sales":3484047,
-       "publisher":"Bloomsbury",
-       "genre":"Children's Fiction",
-       "img":"https://m.media-amazon.com/images/M/MV5BMTcxODgwMDkxNV5BMl5BanBnXkFtZTYwMDk2MDg3._V1_.jpg",
-       "price":89
+       "id":7,
+       "name":"Nurul-haq high school",
+       "location":"Chadkhar-bazar, Chandpur",
+       "students":467,
+       "teachers":25,
+       "established":"1967",
+       "img":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332591483l/269831.jpg"
     },
     {
-       "rank":8,
-       "title":"Harry Potter and the Prisoner of Azkaban",
-       "author":"Rowling, J.K.",
-       "sales":3377906,
-       "publisher":"Bloomsbury",
-       "genre":"Children's Fiction",
-       "img":"https://static.wikia.nocookie.net/harrypotter/images/a/a8/Harry_Potter_and_the_Prisoner_of_Azkaban_2.jpg/revision/latest?cb=20130803163319",
-       "price":77
+       "id":8,
+       "name":"Hasan ali high school",
+       "location":"Chandpur",
+       "students":478,
+       "teachers":27,
+       "established":"1912",
+       "img":"https://cdn.bmy.guide/images/688x350/272d97f02621c42785b70e0a69e1c64d_original.jpeg"
     },
     {
-       "rank":9,
-       "title":"Angels and Demons",
-       "author":"Brown, Dan",
-       "sales":3193946,
-       "publisher":"Transworld",
-       "genre":"Crime, Thriller & Adventure",
-       "img":"https://www.thoughtco.com/thmb/-c8auZoJBMugNpxbqWP1nBUt3Oc=/735x0/angels_demons-56a095a45f9b58eba4b1c6d9.JPG",
-       "price":55
+       "id":9,
+       "name":"DN school Chandpur",
+       "location":"Chandpur",
+       "students":432,
+       "teachers":26,
+       "established":"1934",
+       "img":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332591483l/269831.jpg"
     },
     {
-       "rank":10,
-       "title":"Fifty Shades Darker",
-       "author":"James, E. L.",
-       "sales":2479784,
-       "publisher":"Random House",
-       "genre":"Romance & Sagas",
-       "img":"https://upload.wikimedia.org/wikipedia/en/2/2d/Fifty_Shades_Darker_film_poster.jpg",
-       "price":133
+       "id":10,
+       "name":"Bakila high school",
+       "location":"bakila, Chandpur",
+       "students":369,
+       "teachers":23,
+       "established":"1963",
+       "img":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332591483l/269831.jpg"
+    },
+    {
+       "id":11,
+       "name":"Bolakhal high school",
+       "location":"bolakhal, Chandpur",
+       "students":350,
+       "teachers":22,
+       "established":"1974",
+       "img":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332591483l/269831.jpg"
+    },
+    {
+       "id":12,
+       "name":"Model high school Hazigonj",
+       "location":"hazigonj, Chandpur",
+       "students":450,
+       "teachers":27,
+       "established":"1954",
+       "img":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332591483l/269831.jpg"
     }
  ]
