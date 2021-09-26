@@ -11,6 +11,7 @@ const Body = () => {
         .then(res=>res.json())
         .then(data=>setSchoolData(data))
     },[]);
+    // add member button handler
     const handleAddMember=school=>{     
         if(cartData.indexOf(school) === -1){
         const newCart = [...cartData, school]; 
