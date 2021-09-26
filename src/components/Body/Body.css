@@ -2,7 +2,7 @@
     display: grid;
     grid-template-columns: 3fr 1fr;
     grid-gap: 10px;
-    margin-left: 20px;
+    margin-left: 10px;
 }
 .schools{
     display: grid;

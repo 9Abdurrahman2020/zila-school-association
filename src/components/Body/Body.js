@@ -5,6 +5,7 @@ import './Body.css';
 const Body = () => {
     const [schoolData, setSchoolData] = useState([]);
     const [cartData, setCartData] = useState([]);
+    // fetch data
     useEffect(()=>{
         fetch('./fakeData/data.JSON')
         .then(res=>res.json())
@@ -19,7 +20,7 @@ const Body = () => {
         }
     }
     return (
-        <div className="body-container">
+        <div className="body-container">          
             <div className="schools">
             {
                 schoolData.map(school=><School 
